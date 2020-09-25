@@ -1,0 +1,3 @@
+*.log
+submit_jupyter.sh
+NSCLS_deep/.ipynb_checkpoints/
